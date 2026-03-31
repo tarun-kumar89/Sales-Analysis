@@ -12,9 +12,5 @@ This project focuses on applying data analytics techniques to the sales domain. 
 - Documentation on analytics methodologies
 - Visualizations and dashboards
 
-## How to Contribute
-1. Star the repository if you find it useful.
-2. Leave a comment with your thoughts or questions.
-3. Share the project with others who might benefit from it.
 
 
